@@ -3,7 +3,7 @@
 **Purpose:** Session-by-session log of modules completed, key learnings, and open questions. Update this file after every study session.
 **Audience:** Amit Rajpurkar
 **Status:** In Progress
-**Last updated:** 2026-04-19
+**Last updated:** 2026-05-09
 **Related documents:** `../docs/claude-cowork-learning-plan.md`, `../README.md`
 
 ---
@@ -86,6 +86,34 @@ Status values: `Not started` | `In progress` | `Complete` | `Revisit`
 ---
 
 <!-- Add new session entries below this line, most recent first -->
+
+### Session 3 — 2026-05-09
+
+**What was covered:**
+- Studied Anthropic's AI Fluency Framework and Foundations course (Skilljar) — five source PDFs from `skilljar/`
+- Read and incorporated personal study notes from `studynotes/ai-fluency-notes.md`
+- Produced a 13-page shareable presentation PDF: `docs/understanding-ai-fluency.pdf`
+
+**Course content covered:**
+- AI Fluency definition: effective, efficient, ethical, safe use of AI
+- The 4Ds framework: Delegation, Description, Discernment, Diligence — each with three sub-dimensions (product / process / performance)
+- Three interaction modes: Automation, Augmentation, Agency
+- The Description–Discernment loop: the iterative cycle between communicating and evaluating
+- Machine properties: Next Token Prediction, Knowledge, Working Memory, Steerability — how each creates both capability and limitation
+- Property interactions: how failure modes arise from two properties meeting (e.g. hallucination = token prediction + knowledge gap)
+- Key terminology: LLMs, pre-training, fine-tuning, context window, hallucination, RAG, prompt engineering, few-shot learning, etc.
+
+**Key personal takeaways noted (from study notes):**
+- Delegation: domain expertise is the non-negotiable foundation
+- Description: context + examples + conversation; not just prompts
+- Discernment: do not blindly accept AI output — the responsibility to verify is yours
+- Diligence: disclose AI's role; take ownership of AI-assisted outputs
+- The loop is multi-cycle — iterate until standard is met, not until the AI declares done
+
+**Deliverable produced:**
+- `docs/understanding-ai-fluency.pdf` — 13-page presentation PDF with cover, 4Ds deep-dives, loop section, machine properties, terminology glossary, and practical takeaways. Designed with soothing pastel navy/periwinkle colour theme for ease of reading.
+
+**Next module to tackle:** Return to Module 2.1 (Understanding CLAUDE.md file scopes) → Module 2.2 (Install global CLAUDE.md). Installation steps remain fully documented in `studynotes/preliminary_information.md` Section 4.
 
 ### Session 2 — 2026-05-08
 
