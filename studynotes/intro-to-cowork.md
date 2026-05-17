@@ -13,5 +13,10 @@ meet claude cowork
   - what cowork can do..
   - hand cowork your first task..
 make claude cowork yours
+  - global instructions, projects, skills, plugins/ connectors
 use claude wherever you work
+  - browser, M365 apps (word, excel, powerpoint, outlook)
 sharing and safety in claude cowork
+  - work with autonomy responsibly, 
+  - validate what you build
+  - turn personal workflows into team infrastructure

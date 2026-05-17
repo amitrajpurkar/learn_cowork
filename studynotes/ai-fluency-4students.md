@@ -1,0 +1,128 @@
+# AI Fluency for Students
+
+link to the course: https://anthropic.skilljar.com/ai-fluency-for-students
+
+i will recommend this course to students as well as teachers.
+its a must take course for everyone.
+
+
+
+- introduction -- what to automate, how to pick AI tools, how to assess accuracy, when to disclose AI use
+- 4D's for students: effective, efficient, ethical and safe -- delegation, description, discernment, diligence
+- fluency is about augmenting the good work we already do -- not just automation -- you need to give it a thought every-time
+- **Academic context:**
+	- What are you studying and at what level (major, year, specific courses)?
+	- What are your strongest and weakest subject areas?
+	- What types of assignments do you typically work on?
+	- What are your academic goals this term and beyond?
+- **Learning style and challenges:**
+	- How do you learn best (visual, verbal, hands-on, etc.)?
+	- What aspects of learning do you find most challenging?
+	- Where do you typically need the most help or support?
+	- What motivates you to learn and persist through difficulties?
+	- Your goals and what success looks like for you
+	- Your preferred study methods and what helps you understand concepts
+	- Situations where you want AI support versus where you want to work independently
+	- Your school's AI policies and how to work within them
+- **AI experience and goals:**
+	- What experience do you already have with AI tools?
+	- What concerns do you have about using AI in your studies?
+	- What do you hope AI can help you achieve academically?
+	- What boundaries do you want to set for AI use in your learning?
+	- Make it clear that you want to use AI to enhance your learning, not replace it
+- AI as a learning partner
+	- Delegation
+		- problem awareness -- clearly understand what you are trying to learn in a given task
+		- task delegation -- don't give AI your learning task; let it challenge and strengthen your thinking
+		- platform awareness -- pick AI tools that are designed with learning in mind
+	- Description
+		- performance description -- tell AI to act like a professor or tutor
+		- process description -- tell AI how we want it to work; eg only ask me questions, give hints
+		- product description -- tell AI what kind of outputs are most helpful; eg worksheets, bullet points, or table
+		- how to apply learning --
+			- tips, pointers
+			- guiding questions
+			- additional explanations
+			- practice problems
+			- feedback
+			- act as your student
+	- Discernment :: evaluate if AI interaction is helping you learn
+		- performance discernment -- have you reached your learning goal? can you explain without AI?
+		- process discernment -- do you understand why something works? how you got to this conclusion?
+		- product discernment -- is AI's output accurate ; verify with outside sources
+	- Deligation :: work with AI responsibly, with academic integrity
+		- creation diligence -- use AI that your school allows, follow policies
+		- transparency diligence -- be upfront with how you engage with AI
+		- deployment diligence -- when you turn-in work, you should be able to explain every part of it, stand by it, and apply the concepts to new situations yourself
+	- Think -- Learn -- Adapt
+	- **Setting up your learning partner:**
+		- If starting fresh, share your learning context document from Lesson 1
+		- Share the video transcripts from lesson 1 and lesson 2 to help the AI understand AI Fluency and the approach you are taking
+		- Explain that you want to configure the AI as a study buddy for ongoing use
+		- Specify that you want help learning, not completing assignments
+	- **Establishing the learning partner's role:** Work with the AI to define how it should help you learn:
+		- Ask it to always start by understanding what you're trying to learn before helping
+		- Request that it asks you questions rather than giving direct answers
+		- Have it check your understanding before moving to new concepts
+		- Ask it to provide practice problems that build on what you're studying
+		- Request that it points out connections to things you've learned before
+	- **Creating your study protocols:** Develop specific approaches for different learning needs, for example:
+		- **For problem-solving:** "Guide me with hints and questions, don't solve it for me"
+		- **For concept review:** "Test my understanding with progressively harder questions"
+		- **For exam prep:** "Quiz me and explain why wrong answers are wrong (and why correct answers are correct)"
+		- **For writing:** "Help me develop my own arguments through questioning"
+		- **For reading comprehension:** "Ask me to explain key concepts in my own words"
+		- **For general planning:** "Gather information from me about my various commitments so I can effectively plan out coursework and other activities I need to complete/attend"
+		- **For specific assignment planning:** "Help me test my understanding of this assignment brief so I am sure I understand what is expected of me"
+	- **Testing your learning partner:**
+		- Try a real example from your current coursework
+		- See if the AI maintains its tutoring role or slips into just giving answers
+		- Adjust the instructions if needed
+		- Save the configuration instructions as a conversation guide for future use
+- AI in career planning
+	- Career planning combines AI's information gathering with your self-knowledge and values
+	- Generic AI-generated resumes and cover letters are easily spotted and ineffective
+	- AI excels at research, brainstorming, and practice but you must drive the strategy
+	- Skill building with AI requires specific goals and active practice, not passive consumption
+	- AI Fluency is itself a valuable career skill to develop and showcase
+	- gathering information: AI provides information
+		- opportunities, skill alignment, industry trends, broad research
+	- personal reflection: you provide reflection
+		- energy drivers, acceptable tradeoffs, values, lifestyle
+	- PAIR your self-knowledge with AI's info-gathering
+	- career exploration examples
+		- industry research, trend analysis
+		- skill gap identification
+		- salary and market insights
+		- typical trajectories, career progress paths
+		- brainstorming role types
+		- career coaching
+	- skill building applications
+		- practice scenarios
+		- feedback
+		- role play
+	- #### Part 1: Career exploration & self-discovery (15 minutes)
+	- Start a conversation with Claude (or an AI of your choice) about career exploration:
+		- **Setting up the conversation:**
+			- Share your academic background (or reuse your document from lesson 1) and any work experience
+			- Explain you're exploring career options and want AI to help you research and reflect
+			- Emphasize you want to discover what's right for you, not have AI decide
+		- **Information gathering with AI:**  Ask the AI to help you research:
+			- What careers use skills similar to your major but in different ways
+			- Emerging roles in your field of interest over the next 5-10 years
+			- Real salary progressions and job market demand in your target locations
+			- Day-to-day realities of roles you're considering
+			- Multiple paths people have taken to reach positions you find interesting
+		- **Self-reflection with AI guidance:** Have the AI ask you questions to explore:
+			- What energizes you versus drains you in your current activities
+			- What trade-offs you're willing to make (salary vs. flexibility, stability vs. growth)
+			- Your values and how different careers might align with them
+			- Your definition of success beyond just job titles
+			- What skills you genuinely enjoy using versus just happen to have
+		- **Creating your career map:**
+			- Ask the AI to summarize potential paths based on your discussion
+			- Identify 2-3 roles that genuinely interest you
+			- Note skill gaps between where you are and where you want to be
+			- Save this exploration for reference
+- being the human in the loop
+
