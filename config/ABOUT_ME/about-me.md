@@ -3,7 +3,7 @@
 **Purpose:** Tell Claude who Dhanesh is as a person and a learner, so Claude can work with him as an effective study partner
 **Audience:** Claude — referenced at the start of any study session with Dhanesh
 **Status:** Active
-**Last updated:** 2026-05-17
+**Last updated:** 2026-05-18
 **Related documents:** `my-college-study.md`, `anti-ai-writing-style.md`
 
 ---
@@ -22,6 +22,19 @@ This is not just a personality trait — it shapes how I learn. I am not looking
 
 I would like Claude to follow the AI policies as outlined by my university.
 Here is the link to the policy: https://aiforall.ucf.edu/about/responsible-ai-use-at-ucf/
+
+---
+
+## my learning style, challenges
+ - how i learn best = I learn through hands-on learning such as labs and practicals. While that is the best way I learn, I also remember things by making connections visually to other, familiar things and concepts. Moreover, I would like an Ai that talks like a person or an assistant - because I make more connections that way.
+ - aspects of learning that I find challenging = Remembering and retaining critical information for a certain period of time can be an issue. Especially if I slack off even one day.
+ - where do i typically need most help = even I don't know ; so assume that i need help in everything.
+ - what motivates me to persist durign difficulties = during difficulties I know that I will eventually find a solution, but I don't know when. So, I will try every way until I successfully remember the concept. This varies from a method of learning to the various outlets on the internet such as past papers, practice questions, etc.
+ - my goals = My goal is to be successful at whatever task is dumped on my head. 
+ - what success look like to me = to me, success is not only monetary and mental satisfaction, but also thinking and working like Tony Stark.
+ - my preferred study methods and what helps me understand concepts = I don't know any fancy 'study methods'. I understand concepts by connecting the concept with something I already know - it may not be in the field of study of the concept, such as connecting a scientific phenomena to a real life figure. Other than that, I haven't explored various methods.
+ - situations where I want AI support versus where I want to work independently = I would want AI support if I have to search for resources on the internet AND if the AI returns information that is accurate to the content I am learning in the course. I would also want AI support when the task requires processing speed, multitasking, or data management that exceeds my human limits. For example, for scientific simulations where I do the creative "heavy lifting," while the AI handles the "grunt work" of math verification and testing multiple iterations.
+
 
 ---
 

@@ -3,7 +3,7 @@
 **Purpose:** Session-by-session log of modules completed, key learnings, and open questions. Update this file after every study session.
 **Audience:** Amit Rajpurkar
 **Status:** In Progress
-**Last updated:** 2026-05-09
+**Last updated:** 2026-05-17
 **Related documents:** `../docs/claude-cowork-learning-plan.md`, `../README.md`
 
 ---
@@ -86,6 +86,27 @@ Status values: `Not started` | `In progress` | `Complete` | `Revisit`
 ---
 
 <!-- Add new session entries below this line, most recent first -->
+
+### Session 4 — 2026-05-17
+
+**What was covered:**
+- Config file maintenance session for `config/ABOUT_ME/about-me.md`
+- Reviewed, cleaned up, and updated the file to reflect Dhanesh's transition from IB Grade 12 to UCF Electrical Engineering student
+- Fetched UCF's responsible AI use policy and saved it as a standalone reference document
+
+**Changes made to `about-me.md`:**
+- Added "As a UCF Engineering Student" section with UCF AI policy link and proper separator formatting
+- Fixed typos in the four-D framework line (`Discription` → `Description`, `Deligence` → `Diligence`)
+- Standardised bullet style in "Claude's Role" and "Examples of Study Protocols" subsections
+- Updated "My goal" section — now reflects UCF enrolment, not IB graduation
+- Updated "Who I am" paragraph — removed IB/Grade 12 references
+- Updated "Write notes in my voice" — changed "12th-grade IB student" to "first-year Electrical Engineering student"
+- Updated document title and `Last updated` date
+
+**New file created:**
+- `config/ABOUT_ME/ucf-ai-policy.md` — full UCF Responsible AI Use policy saved as a clean, structured markdown reference document (sourced from https://aiforall.ucf.edu/about/responsible-ai-use-at-ucf/)
+
+**Next action:** Amit will return to this file after gathering additional information to add. No module work was covered this session — resume at Module 2.1 (Understanding CLAUDE.md file scopes) in the next available session.
 
 ### Session 3 — 2026-05-09
 

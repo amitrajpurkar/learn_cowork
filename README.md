@@ -53,3 +53,26 @@ selflearn_cowork/
 └── tracking/
     └── learning-progress-tracker.md      ← session-by-session progress log
 ```
+
+
+## about Claude's config file
+to construct a desired config file for specific persona, you need to develop following files under ABOUT_ME folder:
+ - about-me.md
+ - output-preference.md
+ - my-work-style.md
+ - any special instructions that you would like AI to use when working on specific tasks
+ - as Claude to read these input files and generate a single CLAUDE.md file for that persona.
+
+
+Location for storing these files:
+~/.claude/CLAUDE.md                          ← global default (Claude Code only)
+
+workspace/claude_workspace/ABOUT_ME/
+    student-CLAUDE.md                        ← Engineering students persona
+    swe-CLAUDE.md                            ← Software engineers persona
+    Amit-CLAUDE.md                           ← (upcoming) personal/non-SWE persona
+
+  [in each project folder]/
+    CLAUDE.md                                ← ADD one line (1st line as): @path/to/relevant-persona.md
+
+  + project-specific instructions below
