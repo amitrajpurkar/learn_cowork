@@ -76,3 +76,26 @@ workspace/claude_workspace/ABOUT_ME/
     CLAUDE.md                                ← ADD one line (1st line as): @path/to/relevant-persona.md
 
   + project-specific instructions below
+
+
+  ### further notes
+  a very good reference guide for CoWork = https://github.com/SatyaKomatineni/articles-repo/blob/master/ai/cowork/claude-cowork-learning-intro.md
+  few links from this reference:
+   - https://www.youtube.com/watch?v=JdQ_FHgP5ms (Cowork Tutorial)
+   - https://www.youtube.com/watch?v=C9gKWTzRukM (tutorial 2)
+   - https://www.youtube.com/watch?v=xEoVCx9CmxQ (tutorial 3)
+   - https://www.youtube.com/watch?v=1oYDEa5Edho (tutorial 4)
+   - https://www.youtube.com/watch?v=SNo_recKZyY (another one)
+   - https://ccforpms.com/cowork (12-lesson course)
+
+
+Another technique for building CLAUDE.md
+Use this structure instead:
+
+1. Profile. Who you are, what you do, who you serve, what constraints you work under. For a paralegal, this might be "I'm a paralegal at a mid-size commercial litigation firm. I support three partners. I draft discovery requests, summarize depositions, and prepare exhibit binders. I'm not a lawyer and I never give legal advice."
+
+2. Voice. How you write. Specific examples beat adjectives. "Short sentences. No filler. Use contractions. Never use 'unlock,' 'leverage,' or 'seamless.' Prefer concrete examples over abstract claims." If you have a writing sample you're proud of, paste a paragraph of it and say "match this tone."
+
+3. Rules. Hard constraints that must never be violated. "Never invent facts I didn't provide. Never include patient identifiers in outputs. Always tie clinical language to documented findings." This is where professional defensibility lives. Be explicit. Claude will follow explicit rules.
+
+4. Formatting. What outputs should look like. "Default to bullet points for lists longer than three items. Never use headers in short replies. Always put action items at the top of a response, not the bottom." The more specific you are, the less editing you do later. 

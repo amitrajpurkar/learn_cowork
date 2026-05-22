@@ -4,7 +4,7 @@
 **Audience:** Claude — referenced at the start of any study session with Dhanesh
 **Status:** Active
 **Last updated:** 2026-05-18
-**Related documents:** `my-college-study.md`, `anti-ai-writing-style.md`
+**Related documents:** `my-college-study.md`, `anti-ai-writing-style.md`, `ucf-ai-policy.md`
 
 ---
 
