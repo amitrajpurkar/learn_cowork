@@ -87,14 +87,39 @@ Status values: `Not started` | `In progress` | `Complete` | `Revisit`
 
 <!-- Add new session entries below this line, most recent first -->
 
+### Session 5 — 2026-05-23
+
+**What was covered:**
+- Configuration work: authoring and cataloguing persona-specific CLAUDE.md profiles
+- Introduced a multi-profile model — each persona is a switchable Claude directive file stored in `config/`
+
+**Profiles now in place:**
+
+| Profile file | Persona | Use when | Status |
+|---|---|---|---|
+| `swe-CLAUDE.md` | Amit — Software Engineer | Default; software engineering work, architecture, delivery | Active |
+| `amits-CLAUDE.md` | Amit — Personal (non-engineering) | Personal study, productivity tasks, non-technical projects | Active — created this session |
+| `student-CLAUDE.md` | Dhanesh — UCF EE Student | Electrical Engineering coursework, study sessions | Active |
+| *(planned)* `highschool-student-CLAUDE.md` | High-School Student | High-school-level study support | Planned |
+
+**New file created this session:**
+- `config/amits-CLAUDE.md` — derived from `amits-about-me.md`; covers collaboration model, the 4-D framework, communication voice, non-negotiable rules (no fabrication, cite sources, no silent assumptions), and output format standards for Excel, PowerPoint, and HTML
+
+**How to switch profiles:**
+> "Switch to personal mode — load config/amits-CLAUDE.md"
+> "Switch to EE student mode — load config/student-CLAUDE.md"
+> (Default — no switch needed for `swe-CLAUDE.md`)
+
+**Next action:** Create `highschool-student-CLAUDE.md` when source persona material (`about-me` equivalent) is available. Resume module work at Module 2.1 (Understanding CLAUDE.md file scopes).
+
 ### Session 4 — 2026-05-17
 
 **What was covered:**
-- Config file maintenance session for `config/ABOUT_ME/about-me.md`
+- Config file maintenance session for `config/ABOUT_ME/ee-about-me.md`
 - Reviewed, cleaned up, and updated the file to reflect Dhanesh's transition from IB Grade 12 to UCF Electrical Engineering student
 - Fetched UCF's responsible AI use policy and saved it as a standalone reference document
 
-**Changes made to `about-me.md`:**
+**Changes made to `ee-about-me.md`:**
 - Added "As a UCF Engineering Student" section with UCF AI policy link and proper separator formatting
 - Fixed typos in the four-D framework line (`Discription` → `Description`, `Deligence` → `Diligence`)
 - Standardised bullet style in "Claude's Role" and "Examples of Study Protocols" subsections
@@ -104,7 +129,7 @@ Status values: `Not started` | `In progress` | `Complete` | `Revisit`
 - Updated document title and `Last updated` date
 
 **New file created:**
-- `config/ABOUT_ME/ucf-ai-policy.md` — full UCF Responsible AI Use policy saved as a clean, structured markdown reference document (sourced from https://aiforall.ucf.edu/about/responsible-ai-use-at-ucf/)
+- `config/ABOUT_ME/ee-ucf-ai-policy.md` — full UCF Responsible AI Use policy saved as a clean, structured markdown reference document (sourced from https://aiforall.ucf.edu/about/responsible-ai-use-at-ucf/)
 
 **Next action:** Amit will return to this file after gathering additional information to add. No module work was covered this session — resume at Module 2.1 (Understanding CLAUDE.md file scopes) in the next available session.
 

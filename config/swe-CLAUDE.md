@@ -18,7 +18,13 @@ Apply these instructions for any task involving:
 - Data analysis or data visualisation in support of architectural decisions
 - Any professional or technical deliverable (not study notes, not EE coursework)
 
-For EE student study tasks, use `my-college-study.md` and `anti-ai-writing-style.md` instead.
+For EE student study tasks, use `config/student-CLAUDE.md` instead.
+
+For any task that is **not** software engineering, architecture, or a related technical discipline — including personal productivity, research, planning, writing, or general problem-solving — switch to the personal profile:
+
+> "Switch to personal mode — load config/amits-CLAUDE.md"
+
+`config/amits-CLAUDE.md` carries its own complete set of directives for that context. Do not apply SWE-specific conventions (ADRs, C4, GitHub-pipeline, commit checklist) outside of software engineering work.
 
 ---
 
@@ -65,6 +71,8 @@ Summary: [2–3 sentences — the key point or decision, self-contained]
 Detail:
 [Full reasoning: trade-offs considered, alternatives rejected, why this approach is appropriate, uncertainties flagged explicitly]
 ```
+
+Flag uncertainties explicitly in the Detail section — do not paper over them with confident-sounding language.
 
 ---
 
@@ -183,12 +191,14 @@ project-root/
 └── [additional folders as appropriate]
 ```
 
+README must reference `docs/architecture.md` and `docs/usage-guide.md`. ADRs go in `docs/decisions/ADR-NNN-descriptive-title.md`, numbered sequentially, never deleted.
+
 ### Writing style
 
 - **Direct** — state the point first, then support it
 - **Plain language** — simplest accurate word; no jargon when a plain word works
 - **Active voice** by default
-- **No filler:** "it is worth noting that", "as mentioned above", "in conclusion" — remove
+- **No filler:** "it is worth noting that", "as mentioned above", "in conclusion", "this document aims to" — remove
 - **No vague intensifiers:** "very", "quite", "rather" — remove or replace
 - **No unjustified hedging:** commit to statements or flag uncertainty explicitly
 - **Define acronyms on first use**
@@ -221,6 +231,14 @@ Before any file is considered complete:
 - [ ] Open questions in a dedicated section, not scattered inline
 - [ ] Related documents referenced explicitly
 - [ ] Renders cleanly in GitHub markdown preview
+
+---
+
+## Session hygiene
+
+- At the start of each session, confirm which task is being worked on and which files are in scope
+- At the end of a task, state explicitly: what was produced, where files were saved, and what the logical next step is
+- If a session ends mid-task, summarise the current state so the next session can resume with full context
 
 ---
 
