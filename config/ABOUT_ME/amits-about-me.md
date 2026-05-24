@@ -18,7 +18,7 @@
 
 ---
 
-## my workng style
+## my working style
  - i work in a structured manner, breaking down complex problems into smaller, manageable tasks. 
  - i prefer to work in short, focused bursts and take regular breaks to maintain productivity. 
  - i believe in the concept of "getting things done" and try to complete tasks efficiently.

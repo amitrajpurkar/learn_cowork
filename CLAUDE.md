@@ -21,6 +21,6 @@ Key files:
 - `docs/claude-cowork-learning-plan.md` — phased learning plan
 - `docs/global-configuration-setup-guide.md` — machine setup guide and known findings
 - `tracking/learning-progress-tracker.md` — session-by-session progress log
-- `config/global-CLAUDE.md` — source of truth for Amit's full global configuration
+- `config/swe-CLAUDE.md` — source of truth for Amit's full global configuration
 
 ---

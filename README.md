@@ -91,11 +91,13 @@ workspace/claude_workspace/ABOUT_ME/
 
 Another technique for building CLAUDE.md
 Use this structure instead:
+ - who am i
+ - my working style
+ - my voice
+ - my rules, constraints
+ - my output formatting style
 
-1. Profile. Who you are, what you do, who you serve, what constraints you work under. For a paralegal, this might be "I'm a paralegal at a mid-size commercial litigation firm. I support three partners. I draft discovery requests, summarize depositions, and prepare exhibit binders. I'm not a lawyer and I never give legal advice."
-
-2. Voice. How you write. Specific examples beat adjectives. "Short sentences. No filler. Use contractions. Never use 'unlock,' 'leverage,' or 'seamless.' Prefer concrete examples over abstract claims." If you have a writing sample you're proud of, paste a paragraph of it and say "match this tone."
-
-3. Rules. Hard constraints that must never be violated. "Never invent facts I didn't provide. Never include patient identifiers in outputs. Always tie clinical language to documented findings." This is where professional defensibility lives. Be explicit. Claude will follow explicit rules.
-
-4. Formatting. What outputs should look like. "Default to bullet points for lists longer than three items. Never use headers in short replies. Always put action items at the top of a response, not the bottom." The more specific you are, the less editing you do later. 
+For each person, you will typically see a need for a main-persona and a general-purpose-persona as well
+Hence Dhanesh will need Electrical-Engineering-Student-persona as main-persona and General-Purpose-Student-persona as general-purpose-persona
+Yuvan will need High-School-Student-persona as main-persona and General-Purpose-Student-persona as general-purpose-persona
+At work, we need to see one personal each for Analyst role, Project Manager/ coordinator, Quality/Test Lead, and Software Engineer roles.
